@@ -1,2 +1,0 @@
-# ScalaSpark
-Spark Scala POCs
